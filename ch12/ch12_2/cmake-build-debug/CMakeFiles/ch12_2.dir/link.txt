@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch12_2.dir/main.cpp.o CMakeFiles/ch12_2.dir/String2.cpp.o  -o ch12_2 

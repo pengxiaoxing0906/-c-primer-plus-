@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pxx/Documents/c++/ch10/ch10_exe1/stack.cpp
+stack.h
+/home/pxx/Documents/c++/ch10/ch10_exe1/stack.h
+
+/home/pxx/Documents/c++/ch10/ch10_exe1/stack.h
+

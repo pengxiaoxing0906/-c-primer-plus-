@@ -1,0 +1,3 @@
+/home/pxx/Documents/c++/ch10/ch10_exe1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/c++/ch10/ch10_exe1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/c++/ch10/ch10_exe1/cmake-build-debug/CMakeFiles/ch10_exe1.dir

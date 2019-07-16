@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pxx/Documents/c++/ch12/ch12_2/String2.cpp
+String2.h
+/home/pxx/Documents/c++/ch12/ch12_2/String2.h
+cstring
+-
+cctype
+-
+iostream
+-
+
+/home/pxx/Documents/c++/ch12/ch12_2/String2.h
+regex
+-
+iostream
+-
+
+/home/pxx/Documents/c++/ch12/ch12_2/main.cpp
+iostream
+-
+String2.h
+/home/pxx/Documents/c++/ch12/ch12_2/String2.h
+

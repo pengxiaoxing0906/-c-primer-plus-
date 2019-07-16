@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch12_4.dir/main.cpp.o CMakeFiles/ch12_4.dir/stack.cpp.o  -o ch12_4 

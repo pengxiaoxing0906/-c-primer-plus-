@@ -1,0 +1,3 @@
+/home/pxx/Documents/c++/ch8/ch8_exe6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/c++/ch8/ch8_exe6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/c++/ch8/ch8_exe6/cmake-build-debug/CMakeFiles/ch8_exe6.dir

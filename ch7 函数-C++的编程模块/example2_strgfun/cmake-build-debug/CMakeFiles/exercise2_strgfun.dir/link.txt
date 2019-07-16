@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exercise2_strgfun.dir/main.cpp.o  -o exercise2_strgfun 

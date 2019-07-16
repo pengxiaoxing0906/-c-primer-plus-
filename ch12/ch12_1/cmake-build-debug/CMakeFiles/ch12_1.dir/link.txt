@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch12_1.dir/main.cpp.o CMakeFiles/ch12_1.dir/cow.cpp.o  -o ch12_1 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pxx/Documents/c++/ch12/ch12_4/main.cpp
+iostream
+-
+stack.h
+/home/pxx/Documents/c++/ch12/ch12_4/stack.h
+
+/home/pxx/Documents/c++/ch12/ch12_4/stack.cpp
+stack.h
+/home/pxx/Documents/c++/ch12/ch12_4/stack.h
+
+/home/pxx/Documents/c++/ch12/ch12_4/stack.h
+

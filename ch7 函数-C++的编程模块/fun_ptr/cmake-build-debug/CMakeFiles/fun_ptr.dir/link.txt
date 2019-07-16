@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fun_ptr.dir/main.cpp.o  -o fun_ptr 

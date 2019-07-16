@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pxx/Documents/c++/ch12/ch12_3/main.cpp
+iostream
+-
+stock.h
+/home/pxx/Documents/c++/ch12/ch12_3/stock.h
+
+/home/pxx/Documents/c++/ch12/ch12_3/stock.cpp
+stock.h
+/home/pxx/Documents/c++/ch12/ch12_3/stock.h
+cstring
+-
+iostream
+-
+
+/home/pxx/Documents/c++/ch12/ch12_3/stock.h
+iostream
+-
+
